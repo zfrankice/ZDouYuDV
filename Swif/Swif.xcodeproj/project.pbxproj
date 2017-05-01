@@ -130,8 +130,6 @@
 			isa = PBXGroup;
 			children = (
 				5C87E8651EB73C8200B30954 /* Follow */,
-				5C87E8661EB73C8200B30954 /* Home */,
-				5C87E8671EB73C8200B30954 /* Main */,
 			);
 			path = clor;
 			sourceTree = "<group>";
@@ -141,20 +139,6 @@
 			children = (
 			);
 			path = Follow;
-			sourceTree = "<group>";
-		};
-		5C87E8661EB73C8200B30954 /* Home */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Home;
-			sourceTree = "<group>";
-		};
-		5C87E8671EB73C8200B30954 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -539,6 +523,7 @@
 				5C87E85D1EB73C6300B30954 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C87E85E1EB73C6300B30954 /* Build configuration list for PBXNativeTarget "SwifTests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +532,7 @@
 				5C87E8601EB73C6300B30954 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C87E8611EB73C6300B30954 /* Build configuration list for PBXNativeTarget "SwifUITests" */ = {
 			isa = XCConfigurationList;
@@ -555,6 +541,7 @@
 				5C87E8631EB73C6300B30954 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
